@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:41:12.407Z",
+  "generated_at": "2026-10-19T23:02:03.198Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -263,6 +263,17 @@
       "last_pushed_at": "2026-10-19T22:41:11.775Z",
       "language": "python",
       "lines": 12
+    },
+    "math:264": {
+      "kind": "math",
+      "id": "264",
+      "title": "Catastrophic Forgetting as Curvature-Weighted Displacement",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/264",
+      "path": "math/0264-catastrophic-forgetting-as-curvature-weighted-displacement",
+      "first_solved_at": "2026-10-19T23:02:02.576Z",
+      "last_pushed_at": "2026-10-19T23:02:02.576Z"
     }
   }
 }

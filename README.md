@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 16 problems · 0 labs · 5 math
+**22** solved · 16 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Catastrophic Forgetting as Curvature-Weighted Displacement](https://www.deep-ml.com/math-problems/264) | easy | 2026-10-19 | [solution](math/0264-catastrophic-forgetting-as-curvature-weighted-displacement) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-19 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-19 | [solution](math/0005-gradient-descent-updates) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-19 | [solution](math/0024-information-theory-entropy) |
