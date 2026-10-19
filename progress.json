@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T23:02:03.198Z",
+  "generated_at": "2026-10-19T23:29:44.878Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -274,6 +274,17 @@
       "path": "math/0264-catastrophic-forgetting-as-curvature-weighted-displacement",
       "first_solved_at": "2026-10-19T23:02:02.576Z",
       "last_pushed_at": "2026-10-19T23:02:02.576Z"
+    },
+    "math:271": {
+      "kind": "math",
+      "id": "271",
+      "title": "Three Scenarios: Task-, Domain- and Class-Incremental Learning",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/271",
+      "path": "math/0271-three-scenarios-task-domain-and-class-incremental-learning",
+      "first_solved_at": "2026-10-19T23:29:44.125Z",
+      "last_pushed_at": "2026-10-19T23:29:44.125Z"
     }
   }
 }
