@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:20:17.687Z",
+  "generated_at": "2026-10-19T21:43:59.427Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -198,6 +198,19 @@
       "last_pushed_at": "2026-10-19T21:20:17.176Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:949": {
+      "kind": "problem",
+      "id": "949",
+      "title": "Replace Token Pair in BPE Sequences",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/949",
+      "path": "problems/0949-replace-token-pair-in-bpe-sequences",
+      "first_solved_at": "2026-10-19T21:43:58.857Z",
+      "last_pushed_at": "2026-10-19T21:43:58.857Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
