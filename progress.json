@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T23:29:44.878Z",
+  "generated_at": "2026-10-21T00:39:04.039Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -285,6 +285,19 @@
       "path": "math/0271-three-scenarios-task-domain-and-class-incremental-learning",
       "first_solved_at": "2026-10-19T23:29:44.125Z",
       "last_pushed_at": "2026-10-19T23:29:44.125Z"
+    },
+    "problem:1584": {
+      "kind": "problem",
+      "id": "1584",
+      "title": "Catastrophic Forgetting on a Two-Task Linear Model",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1584",
+      "path": "problems/1584-catastrophic-forgetting-on-a-two-task-linear-model",
+      "first_solved_at": "2026-10-21T00:39:03.481Z",
+      "last_pushed_at": "2026-10-21T00:39:03.481Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }

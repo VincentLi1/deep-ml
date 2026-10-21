@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 16 problems · 0 labs · 7 math
+**24** solved · 17 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-10-19 | [solution](problems/0941-build-vocabulary-from-token-list) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-10-19 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-19 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
+| [Catastrophic Forgetting on a Two-Task Linear Model](https://www.deep-ml.com/problems/1584) | easy | 2026-10-21 | [solution](problems/1584-catastrophic-forgetting-on-a-two-task-linear-model) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-19 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-10-19 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-19 | [solution](problems/0039-implementation-of-log-softmax-function) |
