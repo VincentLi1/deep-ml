@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:05:53.224Z",
+  "generated_at": "2026-10-23T01:24:11.274Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -333,6 +333,17 @@
       "path": "math/0045-uniform-quantization-scale-and-zero-point",
       "first_solved_at": "2026-10-23T01:05:52.326Z",
       "last_pushed_at": "2026-10-23T01:05:52.326Z"
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-10-23T01:24:10.172Z",
+      "last_pushed_at": "2026-10-23T01:24:10.172Z"
     }
   }
 }
