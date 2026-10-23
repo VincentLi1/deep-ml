@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 22 problems · 0 labs · 11 math
+**34** solved · 22 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Three Scenarios: Task-, Domain- and Class-Incremental Learning](https://www.deep-ml.com/math-problems/271) | easy | 2026-10-19 | [solution](math/0271-three-scenarios-task-domain-and-class-incremental-learning) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-19 | [solution](math/0024-information-theory-entropy) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-10-19 | [solution](math/0038-log-likelihood-gradients) |
+| [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-10-23 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-19 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Uniform Quantization: Scale and Zero-Point](https://www.deep-ml.com/math-problems/45) | medium | 2026-10-23 | [solution](math/0045-uniform-quantization-scale-and-zero-point) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-23 | [solution](math/0025-kl-divergence) |
