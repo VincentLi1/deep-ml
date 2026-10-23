@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 22 problems · 0 labs · 12 math
+**35** solved · 23 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-19 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Catastrophic Forgetting on a Two-Task Linear Model](https://www.deep-ml.com/problems/1584) | easy | 2026-10-21 | [solution](problems/1584-catastrophic-forgetting-on-a-two-task-linear-model) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-19 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-10-23 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-23 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Continual Learning Metrics from the Accuracy Matrix](https://www.deep-ml.com/problems/1585) | easy | 2026-10-23 | [solution](problems/1585-continual-learning-metrics-from-the-accuracy-matrix) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-23 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
