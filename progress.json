@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:24:11.274Z",
+  "generated_at": "2026-10-23T17:09:18.436Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -344,6 +344,17 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-10-23T01:24:10.172Z",
       "last_pushed_at": "2026-10-23T01:24:10.172Z"
+    },
+    "math:44": {
+      "kind": "math",
+      "id": "44",
+      "title": "Class Imbalance and Proper Scoring",
+      "difficulty": "easy",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/44",
+      "path": "math/0044-class-imbalance-and-proper-scoring",
+      "first_solved_at": "2026-10-23T17:09:17.832Z",
+      "last_pushed_at": "2026-10-23T17:09:17.832Z"
     }
   }
 }
