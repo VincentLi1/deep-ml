@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:17:43.444Z",
+  "generated_at": "2026-10-23T21:29:43.698Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -381,6 +381,19 @@
       "last_pushed_at": "2026-10-23T20:17:42.893Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1585": {
+      "kind": "problem",
+      "id": "1585",
+      "title": "Continual Learning Metrics from the Accuracy Matrix",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1585",
+      "path": "problems/1585-continual-learning-metrics-from-the-accuracy-matrix",
+      "first_solved_at": "2026-10-23T21:29:43.132Z",
+      "last_pushed_at": "2026-10-23T21:29:43.132Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
