@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 26 problems · 0 labs · 12 math
+**39** solved · 27 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-10-19 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-19 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Catastrophic Forgetting on a Two-Task Linear Model](https://www.deep-ml.com/problems/1584) | easy | 2026-10-21 | [solution](problems/1584-catastrophic-forgetting-on-a-two-task-linear-model) |
+| [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-11-01 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-19 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-10-23 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-23 | [solution](problems/0954-construct-next-token-prediction-targets) |
