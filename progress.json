@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:59:48.223Z",
+  "generated_at": "2026-11-01T23:10:17.899Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -457,6 +457,19 @@
       "last_pushed_at": "2026-10-29T02:59:47.710Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:944": {
+      "kind": "problem",
+      "id": "944",
+      "title": "Sliding Window Text Dataset Generator",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/944",
+      "path": "problems/0944-sliding-window-text-dataset-generator",
+      "first_solved_at": "2026-11-01T23:10:17.291Z",
+      "last_pushed_at": "2026-11-01T23:10:17.291Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
