@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:50:24.887Z",
+  "generated_at": "2026-11-02T01:03:46.925Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -496,6 +496,19 @@
       "last_pushed_at": "2026-11-02T00:50:23.897Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:1034": {
+      "kind": "problem",
+      "id": "1034",
+      "title": "Chat Template Encoding for Instruct Models",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1034",
+      "path": "problems/1034-chat-template-encoding-for-instruct-models",
+      "first_solved_at": "2026-11-02T01:03:46.378Z",
+      "last_pushed_at": "2026-11-02T01:03:46.378Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }

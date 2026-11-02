@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 28 problems · 0 labs · 12 math
+**41** solved · 29 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-10-19 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-19 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-19 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
+| [Chat Template Encoding for Instruct Models](https://www.deep-ml.com/problems/1034) | medium | 2026-11-02 | [solution](problems/1034-chat-template-encoding-for-instruct-models) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-29 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-19 | [solution](problems/0205-entropy-cross-entropy) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-11-02 | [solution](problems/0294-implement-int8-quantization) |
