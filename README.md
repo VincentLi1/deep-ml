@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 27 problems · 0 labs · 12 math
+**40** solved · 28 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-19 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-29 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-19 | [solution](problems/0205-entropy-cross-entropy) |
+| [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-11-02 | [solution](problems/0294-implement-int8-quantization) |
 
 ## Math
 
