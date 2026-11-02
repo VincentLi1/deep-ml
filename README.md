@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 29 problems · 0 labs · 12 math
+**42** solved · 30 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-29 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-19 | [solution](problems/0205-entropy-cross-entropy) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-11-02 | [solution](problems/0294-implement-int8-quantization) |
+| [Online Mean and Variance with Welford's Algorithm](https://www.deep-ml.com/problems/1144) | medium | 2026-11-02 | [solution](problems/1144-online-mean-and-variance-with-welford-s-algorithm) |
 
 ## Math
 
