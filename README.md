@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 30 problems · 0 labs · 13 math
+**44** solved · 30 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -54,6 +54,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-19 | [solution](math/0005-gradient-descent-updates) |
 | [Three Scenarios: Task-, Domain- and Class-Incremental Learning](https://www.deep-ml.com/math-problems/271) | easy | 2026-10-19 | [solution](math/0271-three-scenarios-task-domain-and-class-incremental-learning) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-11-02 | [solution](math/0020-bayes-theorem) |
+| [Goodhart's Law: Proxy Correlation under Optimization](https://www.deep-ml.com/math-problems/70) | medium | 2026-11-03 | [solution](math/0070-goodhart-s-law-proxy-correlation-under-optimization) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-19 | [solution](math/0024-information-theory-entropy) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-10-19 | [solution](math/0038-log-likelihood-gradients) |
 | [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-10-23 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
