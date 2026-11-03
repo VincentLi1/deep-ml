@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T01:22:53.297Z",
+  "generated_at": "2026-11-03T19:23:19.077Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -544,6 +544,19 @@
       "path": "math/0070-goodhart-s-law-proxy-correlation-under-optimization",
       "first_solved_at": "2026-11-03T01:22:52.547Z",
       "last_pushed_at": "2026-11-03T01:22:52.547Z"
+    },
+    "problem:1059": {
+      "kind": "problem",
+      "id": "1059",
+      "title": "Pad and Truncate Tokenized Sequences",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1059",
+      "path": "problems/1059-pad-and-truncate-tokenized-sequences",
+      "first_solved_at": "2026-11-03T19:23:18.393Z",
+      "last_pushed_at": "2026-11-03T19:23:18.393Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
