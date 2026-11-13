@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 36 problems · 0 labs · 14 math
+**51** solved · 37 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-11-02 | [solution](problems/0294-implement-int8-quantization) |
 | [MLP Character-Level Language Model Forward Pass](https://www.deep-ml.com/problems/989) | medium | 2026-11-12 | [solution](problems/0989-mlp-character-level-language-model-forward-pass) |
 | [Online Mean and Variance with Welford's Algorithm](https://www.deep-ml.com/problems/1144) | medium | 2026-11-02 | [solution](problems/1144-online-mean-and-variance-with-welford-s-algorithm) |
+| [Sample from MLP Character Language Model](https://www.deep-ml.com/problems/991) | medium | 2026-11-13 | [solution](problems/0991-sample-from-mlp-character-language-model) |
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-11-06 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
 
 ## Math
