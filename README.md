@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 39 problems · 0 labs · 14 math
+**54** solved · 40 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-10-23 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-11-06 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Pad and Truncate Tokenized Sequences](https://www.deep-ml.com/problems/1059) | easy | 2026-11-03 | [solution](problems/1059-pad-and-truncate-tokenized-sequences) |
+| [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-11-16 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-10-19 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-10-19 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
 | [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-10-19 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
