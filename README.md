@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 38 problems · 0 labs · 14 math
+**53** solved · 39 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-19 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Chat Template Encoding for Instruct Models](https://www.deep-ml.com/problems/1034) | medium | 2026-11-02 | [solution](problems/1034-chat-template-encoding-for-instruct-models) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-11-13 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
+| [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-11-16 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-29 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-19 | [solution](problems/0205-entropy-cross-entropy) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-11-02 | [solution](problems/0294-implement-int8-quantization) |
